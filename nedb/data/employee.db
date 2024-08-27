@@ -1,0 +1,4 @@
+{"empId":"DPT010001","empName":"张三","gender":"MALE","age":28,"level":"3","joinDate":"2020-11-02","department":"DPT01","isActive":true,"_id":"TAEbNJQHKMGS3Hb2"}
+{"empId":"DPT010002","empName":"李四","gender":"FEMALE","age":35,"level":"5","joinDate":"2020-11-02","department":"DPT01","isActive":false,"_id":"zIyYwKaL0Ji6w77q"}
+{"empId":"DPT010003","empName":"王二","gender":"FEMALE","age":40,"level":"7","joinDate":"2014-05-06","department":"DPT02","isActive":true,"_id":"zIyYwKaL0Ji6w78q"}
+{"empId":"DPT010004","empName":"孙五","gender":"MALE","age":31,"level":"5","joinDate":"2019-10-01","department":"DPT02","isActive":true,"_id":"zIyYwKaL0Ji6w79q"}
