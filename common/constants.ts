@@ -1,0 +1,1 @@
+export const templatePath = __dirname + '/template/'
